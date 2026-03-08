@@ -1,10 +1,11 @@
 {
   "asset": "KEKUI",
-  "Artist Name": "Fenris Mau",
-  "Medium": "Gloss, matte, and metallic acrylic paints. Iridescent spray paints, paint brushes and toothpick used.",
-"Actual Size": "Approx 5 x7 inches",
-"Country of Origin": "United States of America",
-  "description": "",
+"name":"KEKUI",
+"pgpsig":"Fenris Mau",
+"category":" Series 1",
+  "subcategory":" Gloss, matte, and metallic acrylic paints. Iridescent spray paints, paint brushes and toothpick used. Approx 5 x 7 inches. Country of Origin- United States of America",
+
+"website":" https://fenrismau.wixsite.com/lordkek",
   "images": [
     {
       "type": "icon",
